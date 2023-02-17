@@ -1,7 +1,6 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    var prueba2=Pokemon("electrico")
+    println(prueba2.tipo_pk)
+    var prueba=Pokemon("caramelo")
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
 }

@@ -1,0 +1,1 @@
+C:\Users\Patricio Cifredo\INTELIJ PROYECTOS\Entornos_pokemon_tickets\build\classes\kotlin\main\MainKt.class;C:\Users\Patricio Cifredo\INTELIJ PROYECTOS\Entornos_pokemon_tickets\build\classes\kotlin\main\Pokemon.class
