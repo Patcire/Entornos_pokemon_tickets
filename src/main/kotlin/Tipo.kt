@@ -5,7 +5,6 @@ class Tipo(tipo:String) {
         "siniestro", "tierra", "veneno", "volador")
 
 
-
     var tipo_pk="defecto"
         get() {
             return field
