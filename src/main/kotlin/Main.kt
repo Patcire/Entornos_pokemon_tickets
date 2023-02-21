@@ -14,5 +14,7 @@ fun main(args: Array<String>) {
     println(tipo1.tipo_pk)
 
 
+    var pokemon2=Pokemon("zus", 300, Tipo("hada"))
+
 
 }
