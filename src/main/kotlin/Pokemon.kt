@@ -6,6 +6,8 @@ class Pokemon(nombre:String,vida:Int,tipo:Tipo) {
         //para que no de error al inicalizarse
         var tipo_objeto=Tipo("electrico")
 
+        var ataques= arrayListOf<String>("","","","")
+
         init {
             this.nombre=nombre
             this.vida=vida
@@ -15,6 +17,7 @@ class Pokemon(nombre:String,vida:Int,tipo:Tipo) {
     override fun toString(): String {
         return "Pokemon(nombre='$nombre', vida=$vida, tipo=${tipo_objeto.tipo_pk})"
     }
+
 
 
 }
