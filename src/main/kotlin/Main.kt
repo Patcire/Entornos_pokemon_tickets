@@ -16,5 +16,5 @@ fun main(args: Array<String>) {
 
     var pokemon2=Pokemon("zus", 300, Tipo("hada"))
 
-
+    tipo1.efectividad("hada")
 }
